@@ -1,0 +1,22 @@
+{
+	"name":            "sidi",
+	"description":     "A simple dependency injection container.",
+	"version":         "0.0.1",
+	"author":          "Anthony Hildoer <anthony@bluerival.com>",
+	"repository":      {
+		"type": "git",
+		"url":  "git://github.com/bluerival/sidi.git"
+	},
+	"dependencies":    {},
+	"devDependencies": {
+		"mocha": "~1"
+	},
+	"keywords":        [
+		"dependency injection",
+		"container"
+	],
+	"engines":         {
+		"node": ">=0.8.0"
+	},
+	"license":         "MIT"
+}
